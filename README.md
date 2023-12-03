@@ -6,3 +6,4 @@ After a few days, i came up with the idea of adding a battery on the arduino, be
 Within a month, I needed to change the resistive sensors twice, because of corosion. So what i did was a bit of research and got to know about capacitive sensors, that don't corrode overtime, so i got one and updated the code and the system with the new sensor.
 
 Personally, I got rid of the battery supply because i don't want to spend a lot of money on batteries, even tough i will use the project only when i won't be home.
+In the end, the code is different because of the new sensor, but the circuit is the same as in the irigatorAutomat files.
